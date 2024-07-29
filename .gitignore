@@ -1,0 +1,6 @@
+# gitの管理対象にしないファイル一覧
+
+/[Ll]ogs/
+/[Li]brary/
+/[Pp]roject[Ss]ettings/
+/UlElementSchema/
